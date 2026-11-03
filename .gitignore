@@ -1,0 +1,22 @@
+# Build artifacts
+/bin/
+/dist/
+
+# Database files
+*.db
+*.db-wal
+*.db-shm
+
+# Go test artifacts
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
