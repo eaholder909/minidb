@@ -2,8 +2,6 @@
 
 A SQLite-inspired embedded relational database written in Go.
 
-MiniDB is an educational database engine built from scratch to explore database internals, storage engines, SQL parsing, indexing, and transaction management.
-
 ## Project Status
 
 Currently under development.
